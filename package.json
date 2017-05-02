@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "Fake what you want",
   "main": "index.js",
+  "bin": {
+    "podliva": "./bin/podliva.js"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node .",
+    "test": "node test"
   },
   "repository": {
     "type": "git",
