@@ -1,0 +1,24 @@
+{
+  "name": "podliva",
+  "version": "1.0.0",
+  "description": "Fake what you want",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FakeMethodology/podliva.git"
+  },
+  "keywords": [
+    "fake",
+    "mock",
+    "podliva"
+  ],
+  "author": "Vadim Yalovenko <yalovek@ya.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FakeMethodology/podliva/issues"
+  },
+  "homepage": "https://github.com/FakeMethodology/podliva#readme"
+}
